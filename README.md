@@ -5,6 +5,8 @@ Since I just started studying, it's still empty here. But I hope that a lot of i
 
 Skills: Python / SQL / ML (a bit)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 - 🌱 I’m currently learning Python, C#, ML thingies 
 - 👯 I’m looking to collaborate on various simple projects based aroud AI 
 - 😄 Pronouns: he/him 
