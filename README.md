@@ -21,8 +21,8 @@ Skills: Python / SQL / ML (a bit)
  <div>
       📫 Connect with me:<br/>
       <div>
-        <a href="https://t.me/diametrfq" target="blank"><img height="50px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram link"/></a>
-        <a href="https://linkedin.com/in/diametrfq" target="blank"><img height="50px" align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png" alt="LinkedIn link"/></a>
-        <a href="mailto:hohlov.03@inbox.ru" target="blank"><img height="50px" align="center" src="https://freeiconshop.com/wp-content/uploads/edd/email-flat.png" alt="email link"/></a>
+        <a href="https://t.me/chaberis" target="blank"><img height="50px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram link"/></a>
+        <a href="https://linkedin.com/in/chaberis" target="blank"><img height="50px" align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png" alt="LinkedIn link"/></a>
+        <a href="chaberwork@mail.ru" target="blank"><img height="50px" align="center" src="https://freeiconshop.com/wp-content/uploads/edd/email-flat.png" alt="email link"/></a>
       </div>
     </div>
