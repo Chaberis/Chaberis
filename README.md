@@ -4,8 +4,15 @@
 Since I just started studying, it's still empty here. But I hope that a lot of interesting things will appear here as soon as possible!
 
 Skills: Python / SQL / ML (a bit)
+<details>
+  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
+  <br/>
+  <a href='https://profile.codersrank.io/user/gautamkrishnar/'>
+  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=chaberis&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
+  </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaberis&show_icons=true&theme=transparent)
+</details>
+
 - 🌱 I’m currently learning Python, C#, ML thingies 
 - 👯 I’m looking to collaborate on various simple projects based aroud AI 
 - 😄 Pronouns: he/him 
