@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Nikita
+#### -- a Russian student from RTU MIREA
 
-<!--
-**Chaberis/Chaberis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Since I just started studying, it's still empty here. But I hope that a lot of interesting things will appear here as soon as possible!
 
-Here are some ideas to get you started:
+Skills: Python / SQL / ML (a bit)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Python, C#, ML thingies 
+- 👯 I’m looking to collaborate on various simple projects based aroud AI 
+- 😄 Pronouns: he/him 
+- ⚡ Fun fact: Чем меньше шкаф, тем больше дров 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chaberis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/chaberis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/chsberis)  
