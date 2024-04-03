@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Nikita
+### Hi there 👋, I'm Kirill
 #### -- a Russian student from RTU MIREA
 
 Since I just started studying, it's still empty here. But I hope that a lot of interesting things will appear here as soon as possible!
