@@ -3,13 +3,8 @@
 
 Since I just started studying, it's still empty here. But I hope that a lot of interesting things will appear here as soon as possible!
 
-Skills: Python / SQL / ML (a bit)
-<details>
-  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  </a>
 
+Skills: Python / SQL / ML (a bit)
 </details>
 
 - 🌱 I’m currently learning Python, C#, ML thingies 
