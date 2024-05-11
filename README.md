@@ -11,6 +11,8 @@ Skills: Python / SQL / ML (a bit)
   <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=chaberis&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
   </a>
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </details>
 
 - 🌱 I’m currently learning Python, C#, ML thingies 
